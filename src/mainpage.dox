@@ -1,0 +1,19 @@
+/**
+ *	\mainpage
+ *	\author David Novák <xnovak1m>, Roman Ondraszek <xondra43>
+ *
+ *	Othello, ICP16 project (VUT FIT)\n\n
+ *
+ *	Project implements board game Othello (also known as Reversi) using C++11, OO design and several design patterns.
+ *
+ *	It allows to run several instances of application, save/load games, use undo/redo and play against AI player (two difficulties avalible). Goal was to separate game logic from UI using common interface. Documentation is generated directly from code using doxygen.
+ *
+ *	Source code can be found in src/ directory. Two save games from nearly finished game are located in examples/ directory (for testing purposes).
+ *
+ *	You can modify this in src/mainpage.dox
+ *
+ *
+ *
+ *
+ *
+ */
