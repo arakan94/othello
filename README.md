@@ -1,7 +1,5 @@
-Project:  Othello, ICP16 project (VUT FIT)
-Authors:  David Novák, Roman Ondraszek
-Version:  1.0
-Date:     9. 5. 2016
+#Project
+Othello, ICP16 project (VUT FIT)
 
 Description
 -----------
