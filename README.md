@@ -16,15 +16,22 @@ Project requires g++ with c++11 support and GNU Make. For GUI, properly set QT T
 After compilation, two binaries are produced - hra2016 (GUI) and hra2016-cli (CLI).
 
 make         - compiles project
+
 make run     - compiles and runs both CLI and GUI versions of game
+
 make clean   - deletes outcome of compilation (including binaries)
+
 make pack    - packs everything needed for compilation into zip archive
+
 make doxygen - generates documentation (output in doc/html)
+
 make metrics - counts lines in .cc and .h files
+
 
 Team
 ----
 David Novák     - game logic, build system, managing git
+
 Roman Ondraszek - CLI, GUI in QT Toolkit
 
 Notes
